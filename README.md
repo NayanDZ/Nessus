@@ -18,7 +18,7 @@ Please make sure following points should be configured for server scanning:
 **Note:-** The above mentioned pre-requisite and configuration points are required and necessary to have the scan completed successfully without any errors and false positive findings.
 
 
-## POC - Exploite Code
+## Troubleshooting 
 1. Ping IP from Nessus server
 
 ```javascript
