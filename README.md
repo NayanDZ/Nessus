@@ -20,13 +20,11 @@ Please make sure following points should be configured for server scanning:
 
 ## Troubleshooting 
 1. Ping IP from Nessus server
-
 ```javascript
 ping (IP Address) 
 ```
 
 2. Telnet from Nessus server
-
 ```javascript
 telnet (IP Address) 22
 
@@ -39,14 +37,12 @@ OR
 telnet (IP Address) 445
 ```
 
-3. Traceroute 
-    
+3. Traceroute  
 ```javascript
 tracert (IP Address)
 ```
 
 4. Map Network Drive
-    
 ```javascript
 \\IP\admin$   [- Win32 access]
 
@@ -55,15 +51,6 @@ AND
 \\IP\IPC$     [- C drive access]
 ```
 
-5. Traceroute 
-    
-```javascript
-tracert (IP Address)
-
-
-
-
-## Refrence
 
 
 
