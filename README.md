@@ -91,6 +91,8 @@ AND
 \\IP\IPC$     [- C drive access]
 ```
 
+## Auditing Cloud Services
+https://docs.tenable.com/nessus/Content/CloudServices.htm?msclkid=c40cbfcca75c11ecb7142d9ad8119397
 
 
 
